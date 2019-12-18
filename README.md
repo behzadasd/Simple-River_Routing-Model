@@ -1,5 +1,5 @@
 
-A simple river-routing model written in MATLAB
+# A simple river-routing model written in MATLAB
 
 It takes 0.5 degree run-off data from 5 climate models and distributes them over a 6-minute resolution Hydro STN netwrok.
 The model routs the runoff over the river netwrok to create a simple river flow dataset.
