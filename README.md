@@ -8,5 +8,6 @@ Simplifications:
 - Time steps are 1 day 
 - Slope of network is assumed to be even across the glob; each grid-cell flows into the next gridcell every time step, regardless of the slope
 
+* GCM run-off data are not uploaded due to Github's upload limitations
 * The produced river network plots are in the Figures directory
 
