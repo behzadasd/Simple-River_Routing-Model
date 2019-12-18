@@ -1,12 +1,11 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%     Flood Routing Model     %%%
 %%%  ISI-MIP - WBM RunOff data  %%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%% Behzad Asadieh   , Ph.D. Candidate                  %%%
-%%% Civil Engineering Department - Water Resources      %%%
-%%% The City College of The City University of New York %%%
-%%% basadie00@citymail.cuny.edu                         %%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Behzad Asadieh, Ph.D.           %%%
+%%% University of Pennsylvania      %%%
+%%% basadieh@sas.upenn.edu          %%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 tic;
 clear;
 clc;
