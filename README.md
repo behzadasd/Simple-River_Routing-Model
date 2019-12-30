@@ -13,6 +13,7 @@ Simplifications:
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 ![Alt text](https://github.com/behzadasd/Simple-River_Routing-Model/blob/master/Figures/Discharge_HadGEM2-ES_1972-2005_NA.png)
+Basins in the  6-minute resolution Hydro STN netwrok
 ![Alt text](https://github.com/behzadasd/Simple-River_Routing-Model/blob/master/Figures/Basins_6min_network.png)
 ![Alt text](https://github.com/behzadasd/Simple-River_Routing-Model/blob/master/Figures/DischargeAverage_FloodRouting_HadGEM2-ES_Year1972.png)
 
